@@ -1,0 +1,3 @@
+# .vimrc
+
+using with Vundle
